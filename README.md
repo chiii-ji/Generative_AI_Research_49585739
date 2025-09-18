@@ -5,7 +5,7 @@
 School of Electrical Engineering and Computer Science - University of Queensland
 
 ## I - Introduction
-The project shows the files for the Tutorial 6 Tasks.<br>
+The project shows the files for the Tutorial 6 tasks.<br>
 
 ## II - Documents
 The project contains 6 Folders or Documents below:
