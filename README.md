@@ -13,6 +13,10 @@ The project contains 6 Folders or Documents below:
 
 * <b>Literature Review documents</b> :<br>
 Journal and conference articles, books, newspaper articles, etc.
+  * Papers
+    * Journal Papers
+    * Conference Papers
+  * Other Articles
 
 * <b>Quantitative Analysis</b> :<br>
 Survey data, survey questions, analysis files (Python scripts, csv, excel files), survey analysis report.
