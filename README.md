@@ -1,7 +1,7 @@
 # Generative_AI_Research_49585739
-# [REIT6811] Research Methods (Semester 2, 2025) <br> Tutorial 6 - Comprehensive Data Handling in Research
+## [REIT6811] Research Methods (Semester 2, 2025) <br> Tutorial 6 - Comprehensive Data Handling in Research
 
-<div style="font-weight: bold; font-size: 1.2em;">Chi Ji (49585739)<br></div>
+<div>Chi Ji (49585739)<br></div>
 School of Electrical Engineering and Computer Science - University of Queensland
 
 ## I - Introduction
